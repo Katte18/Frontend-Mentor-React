@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Frontend-mentor-react/static/css/main.9ae6ee84.css",
+    "main.js": "/Frontend-mentor-react/static/js/main.0075e5ac.js",
+    "static/media/Inter-VariableFont_slnt,wght.ttf": "/Frontend-mentor-react/static/media/Inter-VariableFont_slnt,wght.853e01975d2783d9fa29.ttf",
+    "index.html": "/Frontend-mentor-react/index.html",
+    "main.9ae6ee84.css.map": "/Frontend-mentor-react/static/css/main.9ae6ee84.css.map",
+    "main.0075e5ac.js.map": "/Frontend-mentor-react/static/js/main.0075e5ac.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9ae6ee84.css",
+    "static/js/main.0075e5ac.js"
+  ]
+}

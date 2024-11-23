@@ -20,6 +20,7 @@ function App() {
           <User />
           <Buttons />
           <div className="theme-toggle">
+            <label>Mode</label>
             <ReactSwitch
               onChange={toggleTheme}
               checked={theme === "dark-theme"}
